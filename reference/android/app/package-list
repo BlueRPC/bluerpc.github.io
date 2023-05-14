@@ -1,0 +1,96 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.bluerpc.worker////PointingToDeclaration/app/com.bluerpc.worker/index.md
+$dokka.location:com.bluerpc.worker/BLEConnection///PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/index.md
+$dokka.location:com.bluerpc.worker/BLEConnection/BLEConnection/#android.content.Context/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/-b-l-e-connection.md
+$dokka.location:com.bluerpc.worker/BLEConnection/connect/#[Error type: Unresolved type for BLEConnectRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEConnectResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/connect.md
+$dokka.location:com.bluerpc.worker/BLEConnection/disconnect/#[Error type: Unresolved type for BLEDevice]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/disconnect.md
+$dokka.location:com.bluerpc.worker/BLEConnection/disconnectObservers/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/disconnect-observers.md
+$dokka.location:com.bluerpc.worker/BLEConnection/getConnectionProperties/#[Error type: Unresolved type for BLEDevice]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEConnectionPropertiesResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/get-connection-properties.md
+$dokka.location:com.bluerpc.worker/BLEConnection/getDevices/#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEDevicesResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/get-devices.md
+$dokka.location:com.bluerpc.worker/BLEConnection/listServices/#[Error type: Unresolved type for BLEDevice]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEListServicesResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/list-services.md
+$dokka.location:com.bluerpc.worker/BLEConnection/notification/#[Error type: Unresolved type for BLENotificationRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/notification.md
+$dokka.location:com.bluerpc.worker/BLEConnection/notificationObservers/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/notification-observers.md
+$dokka.location:com.bluerpc.worker/BLEConnection/readCharacteristic/#[Error type: Unresolved type for BLEReadCharacteristicRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEReadResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/read-characteristic.md
+$dokka.location:com.bluerpc.worker/BLEConnection/readDescriptor/#[Error type: Unresolved type for BLEReadDescriptorRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEReadResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/read-descriptor.md
+$dokka.location:com.bluerpc.worker/BLEConnection/writeCharacteristic/#[Error type: Unresolved type for BLEWriteCharacteristicRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/write-characteristic.md
+$dokka.location:com.bluerpc.worker/BLEConnection/writeDescriptor/#[Error type: Unresolved type for BLEWriteDescriptorRequest]#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-connection/write-descriptor.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData///PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/index.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/BLEDeviceData/#android.bluetooth.BluetoothGatt#[Error type: Unresolved type for BLEDevice]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/-b-l-e-device-data.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/cancel/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/cancel.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/characteristic/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/characteristic.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/descriptor/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/descriptor.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/device/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/device.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/discoveryFinished/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/discovery-finished.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/done/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/done.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/finishDiscovery/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/finish-discovery.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/gattDevice/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/gatt-device.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/lockOperation/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/lock-operation.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/readResponseObserver/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/read-response-observer.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/service/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/service.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/setConnPropsResponseObserver/#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEConnectionPropertiesResponse]]/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/set-conn-props-response-observer.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/setConnRssi/#kotlin.Float?/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/set-conn-rssi.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/setGATT/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/set-g-a-t-t.md
+$dokka.location:com.bluerpc.worker/BLEDeviceData/statusResponseObserver/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-device-data/status-response-observer.md
+$dokka.location:com.bluerpc.worker/BLEScanner///PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/index.md
+$dokka.location:com.bluerpc.worker/BLEScanner/BLEScanner/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/-b-l-e-scanner.md
+$dokka.location:com.bluerpc.worker/BLEScanner/isRunning/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/is-running.md
+$dokka.location:com.bluerpc.worker/BLEScanner/observers/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/observers.md
+$dokka.location:com.bluerpc.worker/BLEScanner/scan/#kotlin.Boolean#kotlin.Long/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/scan.md
+$dokka.location:com.bluerpc.worker/BLEScanner/setScanFilters/#kotlin.collections.List[[Error type: Unresolved type for BLEScanFilter]]#kotlin.Boolean/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/set-scan-filters.md
+$dokka.location:com.bluerpc.worker/BLEScanner/stopScan/#/PointingToDeclaration/app/com.bluerpc.worker/-b-l-e-scanner/stop-scan.md
+$dokka.location:com.bluerpc.worker/BlueRPCService///PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/index.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/BlueRPCService/#android.content.Context/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/-blue-r-p-c-service.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEConnect/#[Error type: Unresolved type for BLEConnectRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEConnectResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-connect.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEDisconnect/#[Error type: Unresolved type for BLEDevice]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-disconnect.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEGetConnectionProperties/#[Error type: Unresolved type for BLEDevice]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEConnectionPropertiesResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-get-connection-properties.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEGetDevices/#java.lang.Void?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEDevicesResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-get-devices.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEListServices/#[Error type: Unresolved type for BLEDevice]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEListServicesResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-list-services.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLENotification/#[Error type: Unresolved type for BLENotificationRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-notification.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEPair/#[Error type: Unresolved type for BLEPairingRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-pair.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEPairCode/#[Error type: Unresolved type for BLEPairingCodeRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-pair-code.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEReadCharacteristic/#[Error type: Unresolved type for BLEReadCharacteristicRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEReadResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-read-characteristic.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEReadDescriptor/#[Error type: Unresolved type for BLEReadDescriptorRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEReadResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-read-descriptor.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEReceiveDisconnect/#java.lang.Void?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEDevice]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-receive-disconnect.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEReceiveNotifications/#java.lang.Void?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLENotificationResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-receive-notifications.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEReceiveScan/#java.lang.Void?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for BLEScanResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-receive-scan.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEScanStart/#[Error type: Unresolved type for BLEScanRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-scan-start.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEScanStop/#java.lang.Void?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-scan-stop.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEUnpair/#[Error type: Unresolved type for BLEDevice]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-unpair.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEWriteCharacteristic/#[Error type: Unresolved type for BLEWriteCharacteristicRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-write-characteristic.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/bLEWriteDescriptor/#[Error type: Unresolved type for BLEWriteDescriptorRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-write-descriptor.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/hello/#[Error type: Unresolved type for HelloRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for HelloResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/hello.md
+$dokka.location:com.bluerpc.worker/Const///PointingToDeclaration/app/com.bluerpc.worker/-const/index.md
+$dokka.location:com.bluerpc.worker/Const/CFG_ENABLE_MDNS/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-e-n-a-b-l-e_-m-d-n-s.md
+$dokka.location:com.bluerpc.worker/Const/CFG_ENABLE_MDS_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-e-n-a-b-l-e_-m-d-s_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_NAME/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-n-a-m-e.md
+$dokka.location:com.bluerpc.worker/Const/CFG_PORT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-p-o-r-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_PORT_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-p-o-r-t_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_SCANNING_MODE/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-s-c-a-n-n-i-n-g_-m-o-d-e.md
+$dokka.location:com.bluerpc.worker/Const/CFG_SCANNING_MODE_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-s-c-a-n-n-i-n-g_-m-o-d-e_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_SCANNING_MODE_FILTER/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-s-c-a-n-n-i-n-g_-m-o-d-e_-f-i-l-t-e-r.md
+$dokka.location:com.bluerpc.worker/Const/CFG_SCANNING_MODE_IGNORE/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-s-c-a-n-n-i-n-g_-m-o-d-e_-i-g-n-o-r-e.md
+$dokka.location:com.bluerpc.worker/Const/CFG_SCANNING_MODE_SCREEN_ON/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-s-c-a-n-n-i-n-g_-m-o-d-e_-s-c-r-e-e-n_-o-n.md
+$dokka.location:com.bluerpc.worker/Const/CFG_TLS_ENABLE/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-e-n-a-b-l-e.md
+$dokka.location:com.bluerpc.worker/Const/CFG_TLS_ENABLE_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-e-n-a-b-l-e_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_TLS_KEYSTORE/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-k-e-y-s-t-o-r-e.md
+$dokka.location:com.bluerpc.worker/Const/CFG_TLS_KEYSTORE_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-k-e-y-s-t-o-r-e_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/DEFAULT_MAC/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-d-e-f-a-u-l-t_-m-a-c.md
+$dokka.location:com.bluerpc.worker/Const/SHARED_PREF/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-s-h-a-r-e-d_-p-r-e-f.md
+$dokka.location:com.bluerpc.worker/ForegroundService///PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/index.md
+$dokka.location:com.bluerpc.worker/ForegroundService/ForegroundService/#/PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/-foreground-service.md
+$dokka.location:com.bluerpc.worker/ForegroundService/onBind/#android.content.Intent?/PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/on-bind.md
+$dokka.location:com.bluerpc.worker/ForegroundService/onCreate/#/PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/on-create.md
+$dokka.location:com.bluerpc.worker/ForegroundService/onDestroy/#/PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/on-destroy.md
+$dokka.location:com.bluerpc.worker/MainActivity///PointingToDeclaration/app/com.bluerpc.worker/-main-activity/index.md
+$dokka.location:com.bluerpc.worker/MainActivity/MainActivity/#/PointingToDeclaration/app/com.bluerpc.worker/-main-activity/-main-activity.md
+$dokka.location:com.bluerpc.worker/MainViewModel///PointingToDeclaration/app/com.bluerpc.worker/-main-view-model/index.md
+$dokka.location:com.bluerpc.worker/MainViewModel/MainViewModel/#android.app.Application/PointingToDeclaration/app/com.bluerpc.worker/-main-view-model/-main-view-model.md
+$dokka.location:com.bluerpc.worker/MainViewModel/ready/#/PointingToDeclaration/app/com.bluerpc.worker/-main-view-model/ready.md
+$dokka.location:com.bluerpc.worker/PermissionFragment///PointingToDeclaration/app/com.bluerpc.worker/-permission-fragment/index.md
+$dokka.location:com.bluerpc.worker/PermissionFragment/PermissionFragment/#/PointingToDeclaration/app/com.bluerpc.worker/-permission-fragment/-permission-fragment.md
+$dokka.location:com.bluerpc.worker/PermissionFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.bluerpc.worker/-permission-fragment/on-create.md
+$dokka.location:com.bluerpc.worker/SettingsActivity///PointingToDeclaration/app/com.bluerpc.worker/-settings-activity/index.md
+$dokka.location:com.bluerpc.worker/SettingsActivity/SettingsActivity/#/PointingToDeclaration/app/com.bluerpc.worker/-settings-activity/-settings-activity.md
+com.bluerpc.worker
+
