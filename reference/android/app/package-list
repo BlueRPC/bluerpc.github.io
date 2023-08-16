@@ -60,6 +60,7 @@ $dokka.location:com.bluerpc.worker/BlueRPCService/bLEUnpair/#[Error type: Unreso
 $dokka.location:com.bluerpc.worker/BlueRPCService/bLEWriteCharacteristic/#[Error type: Unresolved type for BLEWriteCharacteristicRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-write-characteristic.md
 $dokka.location:com.bluerpc.worker/BlueRPCService/bLEWriteDescriptor/#[Error type: Unresolved type for BLEWriteDescriptorRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/b-l-e-write-descriptor.md
 $dokka.location:com.bluerpc.worker/BlueRPCService/hello/#[Error type: Unresolved type for HelloRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for HelloResponse]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/hello.md
+$dokka.location:com.bluerpc.worker/BlueRPCService/setKeystore/#[Error type: Unresolved type for SetKeystoreRequest]?#io.grpc.stub.StreamObserver[[Error type: Unresolved type for StatusMessage]]?/PointingToDeclaration/app/com.bluerpc.worker/-blue-r-p-c-service/set-keystore.md
 $dokka.location:com.bluerpc.worker/Const///PointingToDeclaration/app/com.bluerpc.worker/-const/index.md
 $dokka.location:com.bluerpc.worker/Const/CFG_ENABLE_MDNS/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-e-n-a-b-l-e_-m-d-n-s.md
 $dokka.location:com.bluerpc.worker/Const/CFG_ENABLE_MDS_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-e-n-a-b-l-e_-m-d-s_-d-e-f-a-u-l-t.md
@@ -75,7 +76,9 @@ $dokka.location:com.bluerpc.worker/Const/CFG_TLS_ENABLE/#/PointingToDeclaration/
 $dokka.location:com.bluerpc.worker/Const/CFG_TLS_ENABLE_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-e-n-a-b-l-e_-d-e-f-a-u-l-t.md
 $dokka.location:com.bluerpc.worker/Const/CFG_TLS_KEYSTORE/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-k-e-y-s-t-o-r-e.md
 $dokka.location:com.bluerpc.worker/Const/CFG_TLS_KEYSTORE_DEFAULT/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-k-e-y-s-t-o-r-e_-d-e-f-a-u-l-t.md
+$dokka.location:com.bluerpc.worker/Const/CFG_TLS_KEYSTORE_PASSWORD/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-c-f-g_-t-l-s_-k-e-y-s-t-o-r-e_-p-a-s-s-w-o-r-d.md
 $dokka.location:com.bluerpc.worker/Const/DEFAULT_MAC/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-d-e-f-a-u-l-t_-m-a-c.md
+$dokka.location:com.bluerpc.worker/Const/KEYSTORE_DEFAULT_PATH/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-k-e-y-s-t-o-r-e_-d-e-f-a-u-l-t_-p-a-t-h.md
 $dokka.location:com.bluerpc.worker/Const/SHARED_PREF/#/PointingToDeclaration/app/com.bluerpc.worker/-const/-s-h-a-r-e-d_-p-r-e-f.md
 $dokka.location:com.bluerpc.worker/ForegroundService///PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/index.md
 $dokka.location:com.bluerpc.worker/ForegroundService/ForegroundService/#/PointingToDeclaration/app/com.bluerpc.worker/-foreground-service/-foreground-service.md
